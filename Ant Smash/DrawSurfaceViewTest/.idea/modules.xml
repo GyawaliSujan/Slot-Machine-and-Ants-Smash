@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DrawSurfaceViewTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DrawSurfaceViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DrawSurfaceViewTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DrawSurfaceViewTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DrawSurfaceViewTest.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DrawSurfaceViewTest.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DrawSurfaceViewTest.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DrawSurfaceViewTest.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DrawSurfaceViewTest.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DrawSurfaceViewTest.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
